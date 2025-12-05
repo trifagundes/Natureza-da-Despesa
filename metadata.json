@@ -1,0 +1,5 @@
+{
+  "name": "Gestor Público RS - Classificador de Despesas",
+  "description": "An expert system powered by Gemini to assist municipal managers in Rio Grande do Sul with classifying budget expenses (Naturezas de Despesa) correctly.",
+  "requestFramePermissions": []
+}
